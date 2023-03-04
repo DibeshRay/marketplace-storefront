@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "A2hXEGov9CVunwNSrzUYbHG3rmaweB8N3k5pJpNWUCqG"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "xApiKey": "mw_m3VOPMjSo5APY90ccjIE9aRiursCoMehEsi",
+  "serviceFee": "10",
+  "currencyOption": "SOL",
+  "name": "Banana chain marketplace ",
+  "logo": "https://gateway.pinata.cloud/ipfs/QmRHLrj9JHio4mryKtrgKX4YK5tC7N26u3dTkPsmAT2un2?_gl=1*487fw8*_ga*ODgxNzQ3NDM2LjE2NzUyNzAzNzI.*_ga_5RMPXG14TE*MTY3Nzg5NDM3OC41LjEuMTY3Nzg5NDQxNi4yMi4wLjA.",
+  "network": "Devnet "
 }
